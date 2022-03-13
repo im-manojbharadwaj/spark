@@ -10,3 +10,5 @@ Data -> (Job to Infer Schema)
 				-> (Job to Read the DF)
 					-> (Convert it to StructType)
 						-> (Impose on DataFrame)
+
+In this repo you will also see a HTML file which is export of databricks notebook as a HTML format so that you can use it to just import into your databricks workspace.
